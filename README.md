@@ -1,2 +1,3 @@
 # E-commerce-Website
 This is an E-commerce Website i created for a business which specializes in production and selling of high quality furnitures. 
+This Website consists of multiple pages some of them being; Home page, contact page and few more...
